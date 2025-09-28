@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Hezekiahs Olushola  
 
-🚀 **Full-stack & Web3 Engineer | ALX SWE ’25 | 4+ years in Tech**  
+🚀 **Full-stack & Web3 Engineer | ALX SWE ’25 |**  
 
-- ⚡ MERN Stack • React Native • Flutter • Swift  
-- 🔗 Solidity • Web3 • Smart Contracts  
+- ⚡ MERN Stack • React Native • Flutter • Swift • Android studio
+- 🔗 Solidity • Web3 • Smart Contracts  • NFTs
 - 🐍 Python • Data Science & Engineering  
 - ⚙️ DevOps • CI/CD • Cloud • Systems Eng  
 - 🤖 AI + IIoT in Food Engineering  
