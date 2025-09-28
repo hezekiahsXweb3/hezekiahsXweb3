@@ -40,9 +40,9 @@
 ---
 
 ## 🌐 Connect with Me
-- 🐦 X (Twitter): [@YourHandle](https://x.com/YourHandle)  
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/YourName)  
-- 🌍 Portfolio: [Your Website](https://yourwebsite.com)  
+- 🐦 X (Twitter): [@YourHandle](https://x.com/hezekiahsXweb3)  
+- 💼 LinkedIn: [Your Name](https://linkedin.com/in/hezekiah-olushola)  
+- 🌍 Portfolio: [Your Website](https://hezekiahs.com)  
 
 ---
 ✨ _“Building at the intersection of Web2, Web3, AI, and creativity.”_
